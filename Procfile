@@ -1,1 +1,1 @@
-web: gunicorn doctor_consultation_app.wsgi --log-file -
+web: gunicorn docter_consultation_app.wsgi
